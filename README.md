@@ -1,2 +1,1 @@
-# genrenciadordesalas
-echo "# Gerenciador-de-Salas-" >> README.md git init git add README.md git commit -m "first commit" git branch -M main git remote add origin https://github.com/kolosso2/Gerenciador-de-Salas-.git git push -u origin main
+uma API com Spring Boot para gerenciar nossas salas de reunião, utilizaremos o Spring Data para persistência de dados e o banco in-memory H2. E o Front End que irá consumir essa API será uma SPA escrita em Angular. 
